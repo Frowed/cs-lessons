@@ -1,1 +1,1 @@
-Homeworks repo for dear $master$
+Homeworks repo for dear \$master\$
