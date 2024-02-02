@@ -1,1 +1,1 @@
-Homeworks repo for dear \$master\$
+Hw repo
